@@ -10,3 +10,17 @@ body{
     width: 100%;
     text-align: center;
 }
+
+main{
+    margin: 5%;
+    background: rgba(0,0,0,0.5);
+    color: white;
+    padding: 1.875rem;
+}
+
+
+
+ul li a{
+    color: white;
+    text-decoration: none;
+}
