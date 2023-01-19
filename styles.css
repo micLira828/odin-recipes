@@ -13,14 +13,28 @@ body{
 
 main{
     margin: 5%;
-    background: rgba(0,0,0,0.5);
+    background: rgba(0,51,37,0.5);
     color: white;
     padding: 1.875rem;
 }
 
+#nonTitle{
+    display: grid;
+    grid-template-columns:auto auto auto auto ;
+    grid-template-rows:auto auto auto auto;
+ 
+
+}
+#steps{
+   
+    grid-column-start: 2;
+   
+    
+}
 
 
 ul li a{
     color: white;
     text-decoration: none;
 }
+
